@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ghuser.io">
-    <img src="https://rawgit.com/AurelienLourot/ghuser.io/master/docs/logo.png"
+    <img src="https://rawgit.com/ghuser-io/ghuser.io/master/docs/logo.png"
          width="400" height="108" />
   </a>
 </p>
@@ -11,4 +11,4 @@
 
 # User metadata for [ghuser.io](https://ghuser.io)
 
-See [ghuser's documentation](https://github.com/AurelienLourot/ghuser.io/blob/master/docs/user-settings.md).
+See [ghuser's documentation](https://github.com/ghuser-io/ghuser.io/blob/master/docs/user-settings.md).
